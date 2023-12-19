@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Randhir</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/yashrandhir/yashrandhir/main/Beige & Black Geometric Technology LinkedIn Banner.png"> </div>
+                       
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
